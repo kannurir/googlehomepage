@@ -1,0 +1,27 @@
+body {
+	background: white;
+}
+
+a:link {
+    text-decoration: none;
+
+}
+
+.header{
+	text-align: right;
+}
+
+
+/*h4 {
+	color: white;
+	background: DarkMagenta;
+}
+*/
+/*
+a:visited {
+    text-decoration: none;
+} */
+
+/*a:link {
+    background-color: yellow;
+}*/
